@@ -21,15 +21,11 @@ Fluxos para envio de relatórios, geração de arquivos, consultas em banco de d
 
 ## Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
-![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge)
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=js,typescript,react,python,docker,aws,postgres,github,vscode"/>
+
+</div>
 ## Em evolução
 
 Estou desenvolvendo projetos voltados para automação, produtividade operacional e integração entre sistemas.
@@ -42,19 +38,9 @@ Estou desenvolvendo projetos voltados para automação, produtividade operaciona
 ## Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosmiguel31&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmiguel31&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-## Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,python,docker,aws,postgres,github,vscode"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosmiguel31&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmiguel31&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
