@@ -16,13 +16,11 @@ Sou Analista de TI focado em automações, integrações e desenvolvimento de so
 
 ---
 
-## Tecnologias
+## Estatísticas
 
-<div align="center">
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmiguel31&show_icons=true&theme=tokyonight)
 
-<img src="https://skillicons.dev/icons?i=js,react,python,docker,aws,postgres,github,vscode"/>
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmiguel31&layout=compact&theme=tokyonight)
 
 ---
 
