@@ -1,16 +1,23 @@
-## Hi there 👋
+# Carlos Miguel
 
-<!--
-**carlosmiguel31/carlosmiguel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de TI focado em automações, integrações e ferramentas operacionais para provedores de internet.
 
-Here are some ideas to get you started:
+## Tecnologias
+- React
+- JavaScript
+- Python
+- SQL
+- n8n
+- Power BI
+- Docker
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- Assistente Operacional Integrado
+- Integrações WhatsApp + n8n
+- Dashboards operacionais
+- Automação de chamados
+
+## Contato
+- LinkedIn
+- Email
