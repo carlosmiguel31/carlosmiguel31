@@ -7,7 +7,6 @@ Atualmente trabalho com projetos envolvendo:
 - Automações com n8n
 - Integrações via Webhook e API
 - SQL para consultas operacionais
-- Power BI e análise de dados
 - React, JavaScript e extensões Chrome
 - Python e Docker
 
